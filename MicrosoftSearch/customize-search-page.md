@@ -187,9 +187,9 @@ The “|” operator should be used for resolving multi-value variables. For mor
 
 ## Troubleshooting
 
-Here's a list of common issues you might encounter and actions to fix them.
+Here's a list of common problems you might encounter and actions to fix them.
 
-|Error  |Action  |
+|Problem  |Action  |
 |---------|---------|
 | I see a "Something went wrong" error message on the vertical. | Both the vertical and result types are needed to complete the setup. Make sure you have created both for the same content source. |
 | I don't see my result layout, although I created one. | It takes a few minutes because these settings are generally cached. Wait for a few minutes and try again.        |
